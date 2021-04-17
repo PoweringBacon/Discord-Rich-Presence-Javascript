@@ -5,18 +5,18 @@ const rpc = new RPC.Client({
 
 rpc.on("ready", () => {
     rpc.setActivity({
-        details: "idk",
-        state: "AAAAAAA",
-        startTimestamp: new Date(),
-        largeImageKey: "sarv",
-        largeImageText: "lol idk what am doing",
-		smallImageKey: "chonk",
-        smallImageText: "CHONK BOIIII"
+        details: "detail message", // first text idk lol
+        state: "state message", // the text on the bottom details text
+        startTimestamp: new Date(), // time been playing
+        largeImageKey: "large_image", // change the large_image in the "" to your large image picture name
+        largeImageText: "large image text", // large image text when you hover over the large image
+		smallImageKey: "small_image", // change the small_image in the "" to your small image picture name
+        smallImageText: "small image text" // small image text when you hover over the small image
     });
 
-    console.log("sarv sezy");
+    console.log("message"); // the message that prints in the console
 });
 
 rpc.login({
-    clientId: "833081013982593024"
+    clientId: "client id here" // client id
 });
