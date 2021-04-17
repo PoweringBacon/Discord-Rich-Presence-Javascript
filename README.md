@@ -2,7 +2,7 @@
 
 discord rich presence in javascript so it can show on you discord profile lol
 
-we already has everything installed here but you still need to do all the fancy commands in vsc or what ever you are editing this on becuz so can open index.js lol
+am already has everything installed here but you still need to do all the fancy commands in vsc or what ever you are editing this on becuz so can open index.js lol
 
 first to start this thing
 download this and then go to nodejs.org and download node for you device you are on
