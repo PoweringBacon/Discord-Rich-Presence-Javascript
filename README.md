@@ -2,6 +2,8 @@
 
 discord rich presence in javascript so it can show on you discord profile lol
 
+we already has everything installed here but you still need to do all the fancy commands in vsc or what ever you are editing this on becuz so can open index.js lol
+
 first to start this thing
 download this and then go to nodejs.org and download node for you device you are on
 next do the speaical commands in vsc in vsc terminal
@@ -14,3 +16,5 @@ in you folder you is editing index.js in click the file button on the left top c
 next in the powershell terminal thing type "node index.js" and it should show on you discord profile! eyyeyeyey
 NOW PRANK YOU FRENS YOU ARE PLAYING A EXPENISE GAEM HAHAHAHHAHAHHA
 am joking dont do if you frens are not into jokes
+
+now delete this file if want
