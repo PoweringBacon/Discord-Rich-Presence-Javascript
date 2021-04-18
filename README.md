@@ -5,9 +5,9 @@ discord rich presence in javascript so it can show on you discord profile lol
 am already has everything installed here but you still need to do all the fancy commands in vsc or what ever you are editing this on becuz so can open index.js lol
 
 first to start this thing
-download this and then go to nodejs.org and download node for you device you are on,
+download this and then go to https://nodejs.org/en/download/ and download node for you device you are on,
 next setup the node thing and then it should be ready to use (maybe use a tutourial),
-next open vsc and open the terminal in vsc (you can skip this step becuz am already has package.json and package-lock.json), in the terminal type "npm init" and also type "npm i discord-rpc" and it should add 2 new files package.json and package-lock.json,
+next open vsc and open the terminal in vsc (you can skip this step becuz am already has package.json and package-lock.json), in the terminal type "npm init" and also type "npm i discord-rpc" and it should add 2 new files package.json and package-lock.json when you use npm init, it gona ask some questions about a lisence, package name, description and other things,
 next edit the index.js file with you things you want and the client id
 
 NOW we must open the index.js file,
