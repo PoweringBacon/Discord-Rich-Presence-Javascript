@@ -6,6 +6,7 @@ am already has everything installed here but you still need to do all the fancy 
 
 first to start this thing
 download this and then go to nodejs.org and download node for you device you are on,
+next setup the node thing and then it should be ready to use (maybe use a tutourial),
 next open vsc and open the terminal in vsc, in the terminal type "npm init" and also type "npm i discord-rpc",
 next edit the index.js file with you things you want and the client id
 
