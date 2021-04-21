@@ -16,6 +16,7 @@ NOW we must open the index.js file,
 make sure has discord open and make sure the desktop verison not the browser one,
 in you folder you is editing index.js in click the file button on the left top corner and then open powershell if you are on windows (idk for other devices),
 next in the powershell terminal thing type "node index.js" and it should show on you discord profile! eyyeyeyey,
+or you can open the start.bat file (you can rename to anything),
 NOW PRANK YOU FRENS YOU ARE PLAYING A EXPENISE GAEM HAHAHAHHAHAHHA,
 am joking dont do if you frens are not into jokes,
 
