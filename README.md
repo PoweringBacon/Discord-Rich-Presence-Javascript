@@ -1,5 +1,7 @@
 # Discord-Rich-Presence-Javascript
 
+what this video am made https://youtu.be/Agh4o79o9xM
+
 discord rich presence in javascript so it can show on you discord profile lol
 
 am already has everything installed here but you still need to do all the fancy commands in vsc or what ever you are editing this on becuz so can open index.js lol
